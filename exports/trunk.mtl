@@ -1,0 +1,290 @@
+# Blender MTL File: 'tree.blend'
+# Material Count: 24
+
+newmtl Material.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.009
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.014
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.015
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.016
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.022
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.023
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.024
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.025
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.028
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.031
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.032
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.038
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.048
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.066
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.073
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.074
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.075
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.076
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.077
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.078
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.081
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg
+
+newmtl Material.082
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-reor7qo9\\bark_brown_02_nor_gl_4k.exr.png
+map_Kd C:\\Users\\zapar\\AppData\\Local\\Temp\\gltfimg-iuho6z84\\bark_brown_02_diff_4k.jpg

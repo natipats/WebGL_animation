@@ -1,0 +1,132 @@
+# Blender MTL File: 'castleTowers.blend'
+# Material Count: 11
+
+newmtl Material.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_nor_gl_4k.exr
+map_Kd textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_diff_4k.jpg
+
+newmtl Material.009
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_nor_gl_4k.exr
+map_Kd textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_diff_4k.jpg
+
+newmtl Material.010
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_nor_gl_4k.exr
+map_Kd textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_diff_4k.jpg
+
+newmtl Material.011
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_nor_gl_4k.exr
+map_Kd textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_diff_4k.jpg
+
+newmtl Material.020
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_nor_gl_4k.exr
+map_Kd textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_diff_4k.jpg
+
+newmtl Material.021
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_nor_gl_4k.exr
+map_Kd textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_diff_4k.jpg
+
+newmtl Material.022
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_nor_gl_4k.exr
+map_Kd textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_diff_4k.jpg
+
+newmtl Material.023
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_nor_gl_4k.exr
+map_Kd textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_diff_4k.jpg
+
+newmtl Material.024
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_nor_gl_4k.exr
+map_Kd textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_diff_4k.jpg
+
+newmtl Material.026
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_nor_gl_4k.exr
+map_Kd textures\\castle_wall_varriation_4k.blend\\textures\\castle_wall_varriation_diff_4k.jpg
+
+newmtl None
+Ns 500.000001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
